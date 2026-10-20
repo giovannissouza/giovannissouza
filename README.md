@@ -13,4 +13,4 @@ Atualmente, estou em especialização para a área de **Cibersegurança e Defesa
 Os relatórios práticos dos meus laboratórios de Linux e análises de segurança serão organizados e documentados nos meus repositórios públicos.
 
 📫 **Como me encontrar:** 
-- LinkedIn: https://www.linkedin.com/in/giovanni-souza-06a021390/
+- LinkedIn: https://www.linkedin.com/in/giovannisouzadp/
